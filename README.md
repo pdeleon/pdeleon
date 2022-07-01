@@ -40,11 +40,8 @@
 					</a>
 					<br>
 					<br>
-					<p>
-						<a href="" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="" target="_blank">
+					<p> 
+						<a href="https://ironwoodpaint.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
@@ -63,10 +60,10 @@
 					<br>
 					<br>
 					<p>
-						<a href="" target="_blank">
+						<a href="https://github.com/pdeleon/promotional-em-1" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="" target="_blank">
+						<a href="https://bwburgers.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
@@ -84,10 +81,10 @@
                     <br>
                     <br>
                     <p>
-                        <a href="" target="_blank">
+                        <a href="https://github.com/pdeleon/realty-landing-page" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="" target="_blank">
+						<a href="https://tc-real-estate.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
@@ -104,10 +101,10 @@
                     <br>
                     <br>
                     <p>
-                        <a href="" target="_blank">
+                        <a href="https://github.com/pdeleon/pepsi-landing-page" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="" target="_blank">
+						<a href="https://choose-pepsi.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
