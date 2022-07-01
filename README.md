@@ -36,7 +36,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='' target="_blank">
-						<img src="" alt="project 1" height="100%" />
+						<img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/ironwood-painting.webp" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -58,7 +58,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='' target="_blank">
-						<img src="" alt="project 2" height="100%" />
+						<img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/bw-burgers.webp" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -79,7 +79,7 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href='' target="_blank">
-                        <img src="" alt="project 3" height="100%" />
+                        <img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/tri-city-realty.webp" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -99,7 +99,7 @@
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="" alt="project 4" height="100%" />
+                        <img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/choose-pepsi.webp" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
