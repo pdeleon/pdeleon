@@ -33,21 +33,21 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+			<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='' target="_blank">
-						<img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/ironwood-painting.webp" alt="project 1" height="100%" />
+						<img src="https://pjdeleon.com/assets/images/revolve-demo.webp" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p> 
-						<a href="https://ironwoodpaint.com" target="_blank">
+						<a href="https://revolve-demo.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
-          <p>
-						Description goes here
+					<p><strong>HTML, CSS</strong></p>
+         			<p>
+						Promotional email for a clothing store
 					</p>
 				</div>
 			</td>
@@ -55,15 +55,15 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='' target="_blank">
-						<img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/bw-burgers.webp" alt="project 2" height="100%" />
+						<img src="https://pjdeleon.com/assets/images/redline-usa.webp" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/pdeleon/promotional-em-1" target="_blank">
+						<a href="https://github.com/pdeleon/reciept-em-1" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://bwburgers.netlify.app/" target="_blank">
+						<a href="https://redline-usa.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
