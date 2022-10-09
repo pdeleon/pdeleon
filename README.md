@@ -41,8 +41,11 @@
 					<br>
 					<br>
 					<p> 
+						<a href="https://github.com/pdeleon/promo-em-2" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a> 
 						<a href="https://revolve-demo.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+              				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
 					<p><strong>HTML, CSS</strong></p>
