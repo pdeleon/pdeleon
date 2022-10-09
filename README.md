@@ -76,15 +76,15 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href='' target="_blank">
-                        <img src="https://raw.githubusercontent.com/pdeleon/pdeleon/main/assets/tri-city-realty.webp" alt="project 3" height="100%" />
+                        <img src="https://pjdeleon.com/assets/images/eggnog.webp" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/pdeleon/realty-landing-page" target="_blank">
+                        <a href="https://github.com/pdeleon/recepie-newsletter-em" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://tc-real-estate.netlify.app/" target="_blank">
+						<a href="https://eggnog-em.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
