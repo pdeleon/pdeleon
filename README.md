@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/pdeleon/pdeleon/blob/main/assets/background.jpg" width="100%"/>
+<!--   <img src="https://github.com/pdeleon/pdeleon/blob/main/assets/background.jpg" width="100%"/> -->
 </div>
 <h1 align="center">Hi, I'm PJ De Leon</h1>
 <h3 align="center">As a Web Developer, I specialize in crafting immersive online experiences that captivate and engage.</h3>
